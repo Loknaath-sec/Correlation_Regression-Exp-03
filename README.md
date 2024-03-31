@@ -1,6 +1,7 @@
 # EXP 03 - Correlation and regression for data analysis
 
-
+### Name : LOKNAATH.P
+### Register Number : 212223240080
 
 ## Aim : 
 
